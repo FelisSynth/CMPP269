@@ -1,0 +1,14 @@
+Traveller's name (last, first, initials): Achor, Buola, AB.
+Length of absence (# of days): 3
+Total amount of imported goods ($ CAD): 725
+Import Exemption Report for Buola AB. Achor
+------------------------------------------------------------
+Absence Period (days)                          3.0
+...Maximum Personal Exemption              $800.00
+...Include Limited Alcohol & Tobacco?          Yes
+Usable Personal Exemption                            $725.00
+Amount Subject to Special Duty & Taxes                 $0.00
+Amount Subject to Regular Duty & Taxes                 $0.00
+                                                  ----------
+Total Amount of Imported Goods                       $725.00
+-----------------------------------------------------------
